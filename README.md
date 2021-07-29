@@ -1,4 +1,4 @@
-![](https://github.com/samedsay/samedsay/blob/main/Screen%20Recording%202021-07-29%20at%2009.36.28.gif)
+![](https://github.com/samedsay/samedsay/blob/main/background.gif)
 
 ### Languages
 
