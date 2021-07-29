@@ -1,3 +1,5 @@
+[![](https://github.com/samedsay/samedsay/blob/main/ezgif.com-video-to-gif.gif)]
+
 ### Hi there 👋
 
 **samedsay/samedsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
