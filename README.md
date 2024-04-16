@@ -26,7 +26,7 @@
 
 <p align="center">
 	<a href="https://github.com/samedsay"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/abdulsamedsay/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="http://www.linkedin.com/in/samedsay"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.youtube.com/Samedify"><img alt="youtube" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/youtube.png"/></a>
 	<!--<a href="mailto:...@gmail.com"><img alt="email" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email--v1.png"/></a>
 -->
